@@ -1,4 +1,7 @@
-![Three glass panels transform streams of cyan data into a single green signal.](profile-banner.png)
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./profile-banner.png">
+  <img src="./assets/profile-banner.gif" alt="Three glass panels transform streams of cyan data into a single green signal.">
+</picture>
 
 # Robert Ishimura Sousa
 
@@ -15,6 +18,25 @@ We build and operate our own SaaS products. I help develop our **AI Operating Sy
 - **Production databases.** At Grupo Contax, I migrated a decade of legacy CRM data to a new platform. At UBS, I worked on production SQL Server reliability as a Level 3 DBA.
 - **Data architecture.** I co-founded Dbaplex to help companies modernize their data platforms, from ingestion and storage on Azure to data models and reporting in Power BI.
 - **Teaching.** As a Microsoft Certified Trainer, I delivered more than 2,000 hours of technical training, primarily in SQL Server and business intelligence, across New Horizons and Ka Solution.
+
+## Stack I work with
+
+**Data & Analytics**<br>
+<img src="./assets/stack/sql-server.png" width="26" height="26" align="middle" alt="">&nbsp;SQL&nbsp;Server&nbsp;·
+<img src="./assets/stack/azure.png" width="26" height="26" align="middle" alt="">&nbsp;Azure&nbsp;·
+<img src="./assets/stack/microsoft-fabric.png" width="26" height="26" align="middle" alt="">&nbsp;Microsoft&nbsp;Fabric&nbsp;·
+<img src="./assets/stack/power-bi.png" width="26" height="26" align="middle" alt="">&nbsp;Power&nbsp;BI
+
+**Software Engineering**<br>
+<img src="./assets/stack/python.png" width="26" height="26" align="middle" alt="">&nbsp;Python&nbsp;·
+<img src="./assets/stack/typescript.png" width="26" height="26" align="middle" alt="">&nbsp;TypeScript&nbsp;·
+<img src="./assets/stack/csharp.png" width="26" height="26" align="middle" alt="">&nbsp;C#&nbsp;/&nbsp;.NET&nbsp;·
+<img src="./assets/stack/docker.png" width="26" height="26" align="middle" alt="">&nbsp;Docker
+
+**AI & Automation**<br>
+<img src="./assets/stack/ai-agents.png" width="26" height="26" align="middle" alt="">&nbsp;AI&nbsp;agents&nbsp;·
+<img src="./assets/stack/github-actions.png" width="26" height="26" align="middle" alt="">&nbsp;GitHub&nbsp;Actions&nbsp;·
+<img src="./assets/stack/postman.png" width="26" height="26" align="middle" alt="">&nbsp;Postman
 
 ## Selected work
 
