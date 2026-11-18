@@ -21,38 +21,157 @@ We build and operate our own SaaS products. I help develop our **AI Operating Sy
 
 ## Stack I work with
 
+<details open>
+<summary><strong>Databases &amp; Analytics</strong></summary>
+
 <div align="center">
 <table width="100%">
-  <thead>
-    <tr>
-      <th width="33%" scope="col" align="center">Data &amp; Analytics</th>
-      <th width="34%" scope="col" align="center">Software Engineering</th>
-      <th width="33%" scope="col" align="center">AI &amp; Automation</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
-      <td align="center"><img src="./assets/stack/sql-server.svg" width="34" height="34" alt=""><br>SQL Server</td>
-      <td align="center"><img src="./assets/stack/python.svg" width="34" height="34" alt=""><br>Python</td>
-      <td align="center"><img src="./assets/stack/ai-agents.svg" width="34" height="34" alt=""><br>AI agents</td>
+      <td colspan="2" width="33%" align="center"><img src="./assets/stack/sql-server.svg" width="32" height="32" alt=""><br>SQL Server</td>
+      <td colspan="2" width="33%" align="center"><img src="./assets/stack/postgresql.svg" width="32" height="32" alt=""><br>PostgreSQL</td>
+      <td colspan="2" width="33%" align="center"><img src="./assets/stack/neon.svg" width="32" height="32" alt=""><br>Neon</td>
     </tr>
     <tr>
-      <td align="center"><img src="./assets/stack/azure.svg" width="34" height="34" alt=""><br>Azure</td>
-      <td align="center"><img src="./assets/stack/typescript.svg" width="34" height="34" alt=""><br>TypeScript</td>
-      <td align="center"><img src="./assets/stack/github-actions.svg" width="34" height="34" alt=""><br>GitHub Actions</td>
-    </tr>
-    <tr>
-      <td align="center"><img src="./assets/stack/microsoft-fabric.svg" width="34" height="34" alt=""><br>Microsoft Fabric</td>
-      <td align="center"><img src="./assets/stack/csharp.svg" width="34" height="34" alt=""><br>C# / .NET</td>
-      <td align="center" rowspan="2" valign="middle"><img src="./assets/stack/postman.svg" width="34" height="34" alt=""><br>Postman</td>
-    </tr>
-    <tr>
-      <td align="center"><img src="./assets/stack/power-bi.svg" width="34" height="34" alt=""><br>Power BI</td>
-      <td align="center"><img src="./assets/stack/docker.svg" width="34" height="34" alt=""><br>Docker</td>
+      <td colspan="3" width="50%" align="center"><img src="./assets/stack/microsoft-fabric.svg" width="32" height="32" alt=""><br>Microsoft Fabric</td>
+      <td colspan="3" width="50%" align="center"><img src="./assets/stack/power-bi.svg" width="32" height="32" alt=""><br>Power BI</td>
     </tr>
   </tbody>
 </table>
 </div>
+
+</details>
+
+<details open>
+<summary><strong>AI &amp; Model Platforms</strong></summary>
+
+<div align="center">
+<table width="100%">
+  <tbody>
+    <tr>
+      <td colspan="2" width="33%" align="center"><img src="./assets/stack/codex.svg" width="32" height="32" alt=""><br>OpenAI Codex</td>
+      <td colspan="2" width="33%" align="center"><img src="./assets/stack/cursor.svg" width="32" height="32" alt=""><br>Cursor</td>
+      <td colspan="2" width="33%" align="center"><img src="./assets/stack/github-copilot.svg" width="32" height="32" alt=""><br>GitHub Copilot</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="50%" align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stack/openai-dark.svg"><img src="./assets/stack/openai.svg" width="32" height="32" alt=""></picture><br>OpenAI API</td>
+      <td colspan="3" width="50%" align="center"><img src="./assets/stack/hugging-face.svg" width="32" height="32" alt=""><br>Hugging Face</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+</details>
+
+<details>
+<summary><strong>Languages &amp; Frameworks</strong></summary>
+
+<div align="center">
+<table width="100%">
+  <tbody>
+    <tr>
+      <td colspan="2" width="33%" align="center"><img src="./assets/stack/python.svg" width="32" height="32" alt=""><br>Python</td>
+      <td colspan="2" width="33%" align="center"><img src="./assets/stack/typescript.svg" width="32" height="32" alt=""><br>TypeScript</td>
+      <td colspan="2" width="33%" align="center"><img src="./assets/stack/javascript.svg" width="32" height="32" alt=""><br>JavaScript</td>
+    </tr>
+    <tr>
+      <td colspan="2" width="33%" align="center"><img src="./assets/stack/csharp.svg" width="32" height="32" alt=""><br>C# / .NET</td>
+      <td colspan="2" width="33%" align="center"><img src="./assets/stack/sql-server.svg" width="32" height="32" alt=""><br>T-SQL</td>
+      <td colspan="2" width="33%" align="center"><img src="./assets/stack/nodejs.svg" width="32" height="32" alt=""><br>Node.js</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="50%" align="center"><img src="./assets/stack/fastapi.svg" width="32" height="32" alt=""><br>FastAPI</td>
+      <td colspan="3" width="50%" align="center"><img src="./assets/stack/nextjs.svg" width="32" height="32" alt=""><br>Next.js</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+</details>
+
+<details>
+<summary><strong>Developer Tools &amp; Version Control</strong></summary>
+
+<div align="center">
+<table width="100%">
+  <tbody>
+    <tr>
+      <td colspan="2" width="33%" align="center"><img src="./assets/stack/git.svg" width="32" height="32" alt=""><br>Git</td>
+      <td colspan="2" width="33%" align="center"><img src="./assets/stack/github.svg" width="32" height="32" alt=""><br>GitHub</td>
+      <td colspan="2" width="33%" align="center"><img src="./assets/stack/gitkraken.svg" width="32" height="32" alt=""><br>GitKraken</td>
+    </tr>
+    <tr>
+      <td colspan="2" width="33%" align="center"><img src="./assets/stack/bitbucket.svg" width="32" height="32" alt=""><br>Bitbucket</td>
+      <td colspan="2" width="33%" align="center"><img src="./assets/stack/vscode.svg" width="32" height="32" alt=""><br>Visual Studio Code</td>
+      <td colspan="2" width="33%" align="center"><img src="./assets/stack/postman.svg" width="32" height="32" alt=""><br>Postman</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+</details>
+
+<details>
+<summary><strong>Cloud &amp; Infrastructure</strong></summary>
+
+<div align="center">
+<table width="100%">
+  <tbody>
+    <tr>
+      <td colspan="2" width="33%" align="center"><img src="./assets/stack/azure.svg" width="32" height="32" alt=""><br>Azure</td>
+      <td colspan="2" width="33%" align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stack/aws-dark.svg"><img src="./assets/stack/aws.svg" width="32" height="32" alt=""></picture><br>AWS</td>
+      <td colspan="2" width="33%" align="center"><img src="./assets/stack/google-cloud.svg" width="32" height="32" alt=""><br>Google Cloud</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="50%" align="center"><img src="./assets/stack/cloudflare.svg" width="32" height="32" alt=""><br>Cloudflare</td>
+      <td colspan="3" width="50%" align="center"><img src="./assets/stack/docker.svg" width="32" height="32" alt=""><br>Docker</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="50%" align="center"><img src="./assets/stack/doppler.svg" width="32" height="32" alt=""><br>Doppler</td>
+      <td colspan="3" width="50%" align="center"><img src="./assets/stack/coolify.svg" width="32" height="32" alt=""><br>Coolify</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+</details>
+
+<details>
+<summary><strong>Observability</strong></summary>
+
+<div align="center">
+<table width="100%">
+  <tbody>
+    <tr>
+      <td colspan="2" width="33%" align="center"><img src="./assets/stack/sentry.svg" width="32" height="32" alt=""><br>Sentry</td>
+      <td colspan="2" width="33%" align="center"><img src="./assets/stack/datadog.svg" width="32" height="32" alt=""><br>Datadog</td>
+      <td colspan="2" width="33%" align="center"><img src="./assets/stack/new-relic.svg" width="32" height="32" alt=""><br>New Relic</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+</details>
+
+<details>
+<summary><strong>Delivery &amp; Collaboration</strong></summary>
+
+<div align="center">
+<table width="100%">
+  <tbody>
+    <tr>
+      <td colspan="3" width="50%" align="center"><img src="./assets/stack/github-actions.svg" width="32" height="32" alt=""><br>GitHub Actions</td>
+      <td colspan="3" width="50%" align="center"><img src="./assets/stack/chromatic.svg" width="32" height="32" alt=""><br>Chromatic</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="50%" align="center"><img src="./assets/stack/linear.svg" width="32" height="32" alt=""><br>Linear</td>
+      <td colspan="3" width="50%" align="center"><img src="./assets/stack/resend.svg" width="32" height="32" alt=""><br>Resend</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+</details>
 
 ## Selected work
 
@@ -69,4 +188,4 @@ We build and operate our own SaaS products. I help develop our **AI Operating Sy
 
 ---
 
-[DeltaEdge AI Website](https://deltaedgeai.com.br/us) · [DeltaEdge AI GitHub](https://github.com/deltaedge-ai) · [LinkedIn](https://br.linkedin.com/in/robertishimurasousa) · [X](https://x.com/robertishimuras)
+[DeltaEdge AI Website](https://deltaedgeai.com.br/us) · [DeltaEdge AI GitHub](https://github.com/deltaedge-ai) · [LinkedIn](https://br.linkedin.com/in/robertishimurasousa) · [X](https://x.com/robertishimuras) · [Hugging Face](https://huggingface.co/robertishimurasousa)
