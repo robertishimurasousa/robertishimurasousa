@@ -21,22 +21,38 @@ We build and operate our own SaaS products. I help develop our **AI Operating Sy
 
 ## Stack I work with
 
-**Data & Analytics**<br>
-<img src="./assets/stack/sql-server.png" width="26" height="26" align="middle" alt="">&nbsp;SQL&nbsp;Server&nbsp;·
-<img src="./assets/stack/azure.png" width="26" height="26" align="middle" alt="">&nbsp;Azure&nbsp;·
-<img src="./assets/stack/microsoft-fabric.png" width="26" height="26" align="middle" alt="">&nbsp;Microsoft&nbsp;Fabric&nbsp;·
-<img src="./assets/stack/power-bi.png" width="26" height="26" align="middle" alt="">&nbsp;Power&nbsp;BI
-
-**Software Engineering**<br>
-<img src="./assets/stack/python.png" width="26" height="26" align="middle" alt="">&nbsp;Python&nbsp;·
-<img src="./assets/stack/typescript.png" width="26" height="26" align="middle" alt="">&nbsp;TypeScript&nbsp;·
-<img src="./assets/stack/csharp.png" width="26" height="26" align="middle" alt="">&nbsp;C#&nbsp;/&nbsp;.NET&nbsp;·
-<img src="./assets/stack/docker.png" width="26" height="26" align="middle" alt="">&nbsp;Docker
-
-**AI & Automation**<br>
-<img src="./assets/stack/ai-agents.png" width="26" height="26" align="middle" alt="">&nbsp;AI&nbsp;agents&nbsp;·
-<img src="./assets/stack/github-actions.png" width="26" height="26" align="middle" alt="">&nbsp;GitHub&nbsp;Actions&nbsp;·
-<img src="./assets/stack/postman.png" width="26" height="26" align="middle" alt="">&nbsp;Postman
+<div align="center">
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="33%" scope="col" align="center">Data &amp; Analytics</th>
+      <th width="34%" scope="col" align="center">Software Engineering</th>
+      <th width="33%" scope="col" align="center">AI &amp; Automation</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><img src="./assets/stack/sql-server.svg" width="34" height="34" alt=""><br>SQL Server</td>
+      <td align="center"><img src="./assets/stack/python.svg" width="34" height="34" alt=""><br>Python</td>
+      <td align="center"><img src="./assets/stack/ai-agents.svg" width="34" height="34" alt=""><br>AI agents</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="./assets/stack/azure.svg" width="34" height="34" alt=""><br>Azure</td>
+      <td align="center"><img src="./assets/stack/typescript.svg" width="34" height="34" alt=""><br>TypeScript</td>
+      <td align="center"><img src="./assets/stack/github-actions.svg" width="34" height="34" alt=""><br>GitHub Actions</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="./assets/stack/microsoft-fabric.svg" width="34" height="34" alt=""><br>Microsoft Fabric</td>
+      <td align="center"><img src="./assets/stack/csharp.svg" width="34" height="34" alt=""><br>C# / .NET</td>
+      <td align="center" rowspan="2" valign="middle"><img src="./assets/stack/postman.svg" width="34" height="34" alt=""><br>Postman</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="./assets/stack/power-bi.svg" width="34" height="34" alt=""><br>Power BI</td>
+      <td align="center"><img src="./assets/stack/docker.svg" width="34" height="34" alt=""><br>Docker</td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 ## Selected work
 
