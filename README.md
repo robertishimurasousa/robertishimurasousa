@@ -28,14 +28,16 @@ We build and operate our own SaaS products. I help develop our **AI Operating Sy
       <th colspan="6" scope="rowgroup" align="left">Data &amp; Analytics</th>
     </tr>
     <tr>
-      <td colspan="2" width="33%" align="center"><img src="./assets/stack/sql-server.svg" width="26" height="26" alt=""><br>SQL Server</td>
-      <td colspan="2" width="33%" align="center"><img src="./assets/stack/postgresql.svg" width="26" height="26" alt=""><br>PostgreSQL</td>
-      <td colspan="2" width="33%" align="center"><img src="./assets/stack/neon.svg" width="26" height="26" alt=""><br>Neon</td>
+      <td colspan="3" width="50%" align="center"><img src="./assets/stack/sql-server.svg" width="26" height="26" alt=""><br>SQL Server</td>
+      <td colspan="3" width="50%" align="center"><img src="./assets/stack/postgresql.svg" width="26" height="26" alt=""><br>PostgreSQL</td>
     </tr>
     <tr>
-      <td colspan="2" width="33%" align="center"><img src="./assets/stack/sql-server.svg" width="26" height="26" alt=""><br>T-SQL</td>
-      <td colspan="2" width="33%" align="center"><img src="./assets/stack/microsoft-fabric.svg" width="26" height="26" alt=""><br>Microsoft Fabric</td>
-      <td colspan="2" width="33%" align="center"><img src="./assets/stack/power-bi.svg" width="26" height="26" alt=""><br>Power BI</td>
+      <td colspan="3" width="50%" align="center"><img src="./assets/stack/neon.svg" width="26" height="26" alt=""><br>Neon</td>
+      <td colspan="3" width="50%" align="center"><img src="./assets/stack/sql-server.svg" width="26" height="26" alt=""><br>T-SQL</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="50%" align="center"><img src="./assets/stack/microsoft-fabric.svg" width="26" height="26" alt=""><br>Microsoft Fabric</td>
+      <td colspan="3" width="50%" align="center"><img src="./assets/stack/power-bi.svg" width="26" height="26" alt=""><br>Power BI</td>
     </tr>
   </tbody>
   <tbody>
@@ -43,24 +45,26 @@ We build and operate our own SaaS products. I help develop our **AI Operating Sy
       <th colspan="6" scope="rowgroup" align="left">Software Engineering</th>
     </tr>
     <tr>
-      <td colspan="2" width="33%" align="center"><img src="./assets/stack/python.svg" width="26" height="26" alt=""><br>Python</td>
-      <td colspan="2" width="33%" align="center"><img src="./assets/stack/typescript.svg" width="26" height="26" alt=""><br>TypeScript</td>
-      <td colspan="2" width="33%" align="center"><img src="./assets/stack/javascript.svg" width="26" height="26" alt=""><br>JavaScript</td>
+      <td colspan="3" width="50%" align="center"><img src="./assets/stack/python.svg" width="26" height="26" alt=""><br>Python</td>
+      <td colspan="3" width="50%" align="center"><img src="./assets/stack/typescript.svg" width="26" height="26" alt=""><br>TypeScript</td>
     </tr>
     <tr>
-      <td colspan="2" width="33%" align="center"><img src="./assets/stack/csharp.svg" width="26" height="26" alt=""><br>C# / .NET</td>
+      <td colspan="3" width="50%" align="center"><img src="./assets/stack/javascript.svg" width="26" height="26" alt=""><br>JavaScript</td>
+      <td colspan="3" width="50%" align="center"><img src="./assets/stack/csharp.svg" width="26" height="26" alt=""><br>C# / .NET</td>
+    </tr>
+    <tr>
       <td colspan="2" width="33%" align="center"><img src="./assets/stack/nodejs.svg" width="26" height="26" alt=""><br>Node.js</td>
       <td colspan="2" width="33%" align="center"><img src="./assets/stack/fastapi.svg" width="26" height="26" alt=""><br>FastAPI</td>
+      <td colspan="2" width="33%" align="center"><img src="./assets/stack/nextjs.svg" width="26" height="26" alt=""><br>Next.js</td>
     </tr>
     <tr>
-      <td colspan="2" width="33%" align="center"><img src="./assets/stack/nextjs.svg" width="26" height="26" alt=""><br>Next.js</td>
       <td colspan="2" width="33%" align="center"><img src="./assets/stack/vscode.svg" width="26" height="26" alt=""><br>Visual Studio Code</td>
       <td colspan="2" width="33%" align="center"><img src="./assets/stack/postman.svg" width="26" height="26" alt=""><br>Postman</td>
+      <td colspan="2" width="33%" align="center"><img src="./assets/stack/git.svg" width="26" height="26" alt=""><br>Git</td>
     </tr>
     <tr>
-      <td colspan="2" width="33%" align="center"><img src="./assets/stack/git.svg" width="26" height="26" alt=""><br>Git</td>
-      <td colspan="2" width="33%" align="center"><img src="./assets/stack/github.svg" width="26" height="26" alt=""><br>GitHub</td>
-      <td colspan="2" width="33%" align="center"><img src="./assets/stack/bitbucket.svg" width="26" height="26" alt=""><br>Bitbucket</td>
+      <td colspan="3" width="50%" align="center"><img src="./assets/stack/github.svg" width="26" height="26" alt=""><br>GitHub</td>
+      <td colspan="3" width="50%" align="center"><img src="./assets/stack/bitbucket.svg" width="26" height="26" alt=""><br>Bitbucket</td>
     </tr>
     <tr>
       <td colspan="3" width="50%" align="center"><img src="./assets/stack/gitkraken.svg" width="26" height="26" alt=""><br>GitKraken</td>
@@ -92,13 +96,13 @@ We build and operate our own SaaS products. I help develop our **AI Operating Sy
       <td colspan="2" width="33%" align="center"><img src="./assets/stack/google-cloud.svg" width="26" height="26" alt=""><br>Google Cloud</td>
     </tr>
     <tr>
-      <td colspan="2" width="33%" align="center"><img src="./assets/stack/cloudflare.svg" width="26" height="26" alt=""><br>Cloudflare</td>
-      <td colspan="2" width="33%" align="center"><img src="./assets/stack/docker.svg" width="26" height="26" alt=""><br>Docker</td>
-      <td colspan="2" width="33%" align="center"><img src="./assets/stack/coolify.svg" width="26" height="26" alt=""><br>Coolify</td>
+      <td colspan="3" width="50%" align="center"><img src="./assets/stack/cloudflare.svg" width="26" height="26" alt=""><br>Cloudflare</td>
+      <td colspan="3" width="50%" align="center"><img src="./assets/stack/docker.svg" width="26" height="26" alt=""><br>Docker</td>
     </tr>
     <tr>
-      <td colspan="3" width="50%" align="center"><img src="./assets/stack/doppler.svg" width="26" height="26" alt=""><br>Doppler</td>
-      <td colspan="3" width="50%" align="center"><img src="./assets/stack/resend.svg" width="26" height="26" alt=""><br>Resend</td>
+      <td colspan="2" width="33%" align="center"><img src="./assets/stack/coolify.svg" width="26" height="26" alt=""><br>Coolify</td>
+      <td colspan="2" width="33%" align="center"><img src="./assets/stack/doppler.svg" width="26" height="26" alt=""><br>Doppler</td>
+      <td colspan="2" width="33%" align="center"><img src="./assets/stack/resend.svg" width="26" height="26" alt=""><br>Resend</td>
     </tr>
   </tbody>
   <tbody>
